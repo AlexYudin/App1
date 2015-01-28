@@ -1,0 +1,52 @@
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Images\standard.png
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.exe.config
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.exe
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\MahApps.Metro.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\AddRocketDialog.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\MainWindow.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\App.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\AddRocketDialog.g.cs
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication_MarkupCompile.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.g.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.Properties.Resources.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.exe
+C:\Users\Александр\Desktop\source\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Images\standard.png
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.exe.config
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.exe
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.DemoApplication.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\AddRocketDialog.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\MainWindow.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\App.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\AddRocketDialog.g.cs
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\MainWindow.g.cs
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\App.g.cs
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication_MarkupCompile.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.g.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.Properties.Resources.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.csproj.GenerateResource.Cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.exe
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.DemoApplication\obj\Debug\Selen.Wpf.DemoApplication.pdb

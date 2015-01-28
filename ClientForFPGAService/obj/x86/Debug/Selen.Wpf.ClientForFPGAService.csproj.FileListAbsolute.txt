@@ -1,0 +1,16 @@
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\bin\Debug\ClientForFPGAService.exe
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\bin\Debug\ClientForFPGAService.pdb
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\bin\Debug\MahApps.Metro.dll
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\bin\Debug\System.Windows.Interactivity.dll
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\Authorization.baml
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\MainWindow.baml
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\App.baml
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\Authorization.g.cs
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\MainWindow.g.cs
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\App.g.cs
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\ClientForFPGAService_MarkupCompile.cache
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\ClientForFPGAService.g.resources
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\ClientForFPGAService.Properties.Resources.resources
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\Selen.Wpf.ClientForFPGAService.csproj.GenerateResource.Cache
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\ClientForFPGAService.exe
+c:\users\fia\visual studio 2010\Projects\ClientForFPGAService\ClientForFPGAService\obj\x86\Debug\ClientForFPGAService.pdb

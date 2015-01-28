@@ -1,0 +1,62 @@
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\AppTreeStyle.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\AppTreeStyle.g.cs
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.lref
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\AppTreeStyle.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\PasswordBoxStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\AppTreeStyle.g.cs
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.lref
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb

@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\bin\Debug\Selen.Wpf.GenericAppTree.Contracts.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.csprojResolveAssemblyReference.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.GenericAppTree\obj\Debug\Selen.Wpf.GenericAppTree.pdb

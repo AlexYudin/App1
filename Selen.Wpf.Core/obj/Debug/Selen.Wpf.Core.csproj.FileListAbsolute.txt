@@ -1,0 +1,20 @@
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\MetroWindowResources.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Resources.baml
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+C:\Users\Александр\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\MetroWindowResources.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Resources.baml
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+C:\Users\fia\Visual Studio 2010\Projects\ClientForFPGAService\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb
